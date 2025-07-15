@@ -18,7 +18,7 @@
 ---
 
 ## 📸 Screenshots  
-![Love Running Screenshot](Assets/images/loverunning.png)
+![Love Running Screenshot](assets/images/loverunning.png)
 
 ---
 
@@ -40,7 +40,7 @@ This project was developed as part of the [Code Institute](https://codeinstitute
 ## 🚀 How to Use  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/csfree87/love-running.git
+   git clone https://github.com/cfree87/love-running.git
 
 2. Open `index.html` in your browser  
    _or_  
